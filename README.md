@@ -1,7 +1,7 @@
-## Вариант 1
+## Р’Р°СЂРёР°РЅС‚ 1
  
-### Алгоритм Кэнни
+### РђР»РіРѕСЂРёС‚Рј РљСЌРЅРЅРё
 ![](https://github.com/AlehinDenis/Image-Processing-3/blob/master/Images/Zz86FCMDjUU.jpg)
-### Метод Хафа
+### РњРµС‚РѕРґ РҐР°С„Р°
 ![](https://github.com/AlehinDenis/Image-Processing-3/blob/master/Images/m5gn4CNjLLM.jpg)
 
