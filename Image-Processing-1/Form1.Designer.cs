@@ -64,14 +64,14 @@
             // 
             this.addNoiseToolStripMenuItem.Name = "addNoiseToolStripMenuItem";
             this.addNoiseToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.addNoiseToolStripMenuItem.Text = "Fourier transform";
+            this.addNoiseToolStripMenuItem.Text = "Canny\'s filter";
             this.addNoiseToolStripMenuItem.Click += new System.EventHandler(this.addNoiseToolStripMenuItem_Click);
             // 
             // removeNoiseToolStripMenuItem
             // 
             this.removeNoiseToolStripMenuItem.Name = "removeNoiseToolStripMenuItem";
             this.removeNoiseToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.removeNoiseToolStripMenuItem.Text = "Frequency filtering";
+            this.removeNoiseToolStripMenuItem.Text = "Hough Lines";
             this.removeNoiseToolStripMenuItem.Click += new System.EventHandler(this.removeNoiseToolStripMenuItem_Click);
             // 
             // pictureBox1
